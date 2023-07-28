@@ -1,3 +1,9 @@
+<h1 align="center"></h1>
+
+<div align="center">
+  <img src="https://github.com/MKL-GitHub/kaspel/assets/93647476/84c851f6-8f95-4822-aa58-16be37bc2a6e">
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
