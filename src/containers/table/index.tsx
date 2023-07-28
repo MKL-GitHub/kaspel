@@ -1,7 +1,7 @@
 import { FC, useState, useRef, useEffect } from "react";
 import { Table, Button, Modal, Input } from "antd";
 import { EditOutlined, DeleteOutlined } from "@ant-design/icons";
-import dayjs, { Dayjs } from "dayjs";
+import dayjs from "dayjs";
 
 import { useAppDispatch, useAppSelector } from "@store";
 import { TableForm } from "@components";
