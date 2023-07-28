@@ -1,0 +1,23 @@
+.TableContainer {
+  max-width: 50rem;
+  margin: 1rem auto;
+
+  &-search {
+    margin-bottom: 3rem;
+  }
+  &-rowButtons {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  &-addButton {
+    margin-bottom: 2rem;
+  }
+
+  &-table {
+    box-shadow: 0 0 0.3rem #000000;
+    border-radius: 0.3rem;
+    overflow: hidden;
+  }
+}
