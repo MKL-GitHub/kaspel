@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <div align="center">
-  <img src="https://github.com/MKL-GitHub/kaspel/assets/93647476/84c851f6-8f95-4822-aa58-16be37bc2a6e">
+  <img src="https://github.com/MKL-GitHub/kaspel/assets/93647476/6afd9409-4e41-49f1-8bec-259a11656883">
 </div>
 
 # Getting Started with Create React App
